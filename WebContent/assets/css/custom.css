@@ -1,0 +1,168 @@
+.headerRow{
+	padding:0;
+	margin:0;
+}
+
+ul.menuUl{
+	list-style-type: none;
+	float: right;
+}
+ul.menuUl li.menu {
+	color: white;
+	float: left;
+	width: 80px;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+li.menu > a{
+	color:white;
+}
+.danda{
+	text-align: center;
+	width:20px!important;
+}
+.alignRight{
+	text-align:right;
+}
+.alignLeft{
+	text-align:left;
+}
+a.neon:hover {
+	-webkit-animation: neon1 1.5 ease-in-out infinite alternate;
+	-moz-animation: neon1 1.5s ease-in-out infinite alternate;
+	animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+a.neon {
+	text-decoration: none;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.scrollNit {
+	font-size: 48px;
+	color: #82BC00; 1
+	padding: 12px;
+	width: 68px;
+	height: 68px;
+	text-align: center;
+	border-radius: 50%;
+	background: #82BC00;
+	float: none;
+	margin: 0 auto;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.rowAdjust {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.marginBottom20 {
+	margin-bottom: 20px;
+}
+
+.marginBottom10 {
+	margin-bottom: 10px;
+}
+
+.basketball {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') 0 0;
+}
+
+.chess {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') 0 -130px;
+}
+
+.cricket {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') 0 -260px;
+}
+
+.nfs {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') 0 -390px;
+}
+
+.badminton {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -270px 0;
+}
+
+.football {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -270px -130px;
+}
+
+.fifa {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -270px -260px;
+}
+
+.marathon {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -270px -390px;
+}
+
+.carrom {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -540px 0;
+}
+
+.volleyball {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -540px -130px;
+}
+
+.cycle {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -540px -260px;
+}
+
+.blank {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -540px -390px;
+}
+
+.tabletennis {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -810px 0;
+}
+
+.counter {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -810px -130px;
+}
+
+.throwball {
+	width: 270px;
+	height: 130px;
+	background: url('../img/sports.png') -810px -260px;
+}
+
+.hwadjust {
+	width: 270px;
+	height: 130px;
+	display: inline-block;
+}
